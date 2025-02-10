@@ -3,7 +3,6 @@
 biggest() {
     int num1, num2, num3;
 
-    // Input three numbers
     printf("Enter three numbers: ");
     scanf("%d %d %d", &num1, &num2, &num3);
 
